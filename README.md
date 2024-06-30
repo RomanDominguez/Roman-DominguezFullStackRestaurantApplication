@@ -53,7 +53,7 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 >_If you want to load the database in strapi you have to start fro scratch due to you are your own administrator so you have to create your own database_
 
 >[!CAUTION]
->_If you want to make changes you have to create a backup first if you dont wanna lose your job be cautios _
+>_If you want to make changes you have to create a backup first if you dont wanna lose your job be cautious _
 >
 
 >[!NOTE]
@@ -61,8 +61,7 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 
 | FRONTEND      | BACKEND       |
 | ------------- | ------------- |
-| ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/83e2cc32-b341-4e2e-8c4e-c4d1942b089e) | ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/904a4c74-4369-4ddf-a927-65c6a5af7239)
-  |
+|               |               |
 
 
 
