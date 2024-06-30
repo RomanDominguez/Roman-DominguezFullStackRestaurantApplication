@@ -10,26 +10,32 @@ _En esta seccion podras encontrar el restaurant de tu eleccion al realizar un bu
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/23bdd2e3-db93-4cb6-aa39-8600024b7c75)
 
+**To start this application you must create a username and write a valid Email and password**
 _Para iniciar en esta apliacion deberas crear un nombre de usuario y escribir un Email y contraseña validos_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/72571b36-f285-4dd0-8030-9fdc60134e2a)
 
+**Once approved your registration data will be uploaded to a strapi database and you can then proceed to the login page**
 _Una vez aprobados tus datos de registro seran cargados en una base de datos en strapi y puedes entonces proceder a la pagina de login_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/01cf8cfa-c01d-41ef-9679-e6d4098fbe7d)
 
+**Once the login is approved, you can search by name or number of the restaurant of your choice.**
 _Una vez aprobado el login podras realizar una busqueda por nombre o numero de el restaurant de tu preferencia_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/3aa944b5-ff90-46ed-9414-762cfd1e2c93)
 
+ **Once you have selected the restaurant of your choice, you can choose a dish you like and add it to the shopping cart using the +Add To Cart button.**
  _Una vez seleccionado el restaurante de tu preferencia podras elegir un platillo de tu agrado y añadirlo al carrito de compra en el boton +Add To Cart_
 
  ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/351aa946-e619-4322-ade0-fe9c7db66f7f)
 
+**When you complete your order you can verify the information in the shopping cart. In this section you can also add or delete the dishes you want and the Total price to pay will be reflected here.**
 _Cuando completes tu orden podras verificar la informacion en el carrito de compra en esta seccion tambien podas añadir o eliminar los platillos que desees y aqui se reflejara el precio Total a pagar_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/8404a532-7b3b-4484-939a-af16e75552bd)
 
+**Finally, by pressing the Order Here button you will proceed to the payment page that will be created by Stripe where you can enter the card information and finalize the purchase**
 _Finalmente al presionar el boton de Order Here procederas a la pagina de pago que sera creada por Stripe en donde podras ingresar los datos de la tarjeta y finalizar la compra_
 
 
