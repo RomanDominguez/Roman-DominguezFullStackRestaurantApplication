@@ -40,7 +40,8 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 
 
 >[!TIP]
->_Una_
+>_You can navigate through https://www.w3schools.com/ for css, html, javascript, jquery, bootstrap, react, etc.... tips its really helpful_
+>
  
 > [!IMPORTANT]
 >_Una_
@@ -68,6 +69,7 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 ### **This site was buil using:**  https://graphql.org/
 ### **This site was buil using:**  https://nextjs.org/
 ### **This site was buil using:**  https://www.apollographql.com/
-### **This site was buil using:** 
-### **This site was buil using:** 
-### **This site was buil using:** 
+### **This site was buil using:**  https://es.react.dev/
+### **This site was buil using:**  https://reactstrap.github.io/
+### **This site was buil using:**  https://nodejs.org/en
+### **This site was buil using:**  https://www.npmjs.com/
