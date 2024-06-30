@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "npm install",
+    "start": "node http_server.js"
+
   },
   "dependencies": {
     "@apollo/client": "^3.2.4",
@@ -21,8 +22,13 @@
     "reactstrap": "^8.6.0",
     "stripe": "^16.1.0"
   },
-  "description": "Exercise05 is full Shopping Cart with Stripe Billing",
+
+  "engines": {
+    "node": "20.11.1"
+  },
+
+  "description": "Restaurant App",
   "main": "index.js",
-  "author": "jrw@mit.edu",
+  "author": "roman",
   "license": "MIT"
 }

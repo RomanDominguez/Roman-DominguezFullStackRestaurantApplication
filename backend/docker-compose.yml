@@ -37,7 +37,7 @@ monorestaurant:
   volumes:
     - strapidata:/data/DATABASE_CLIENT
   ports:
-    - "2017:2017"
+    - "27017:27017"
 
 networks:
   strapi-app-network:
