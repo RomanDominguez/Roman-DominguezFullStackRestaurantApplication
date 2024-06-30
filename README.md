@@ -13,6 +13,10 @@ _Para iniciar en esta apliacion deberas crear un nombre de usuario y escribir un
 
 _Una vez aprobados tus datos de registro seran cargados en una base de datos en strapi y puedes entonces proceder a la pagina de login_
 
+![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/01cf8cfa-c01d-41ef-9679-e6d4098fbe7d)
+
+_Una vez aprobado el login podras realizar una busqueda por nombre o numero de el restaurant de tu preferencia_
+
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/3aa944b5-ff90-46ed-9414-762cfd1e2c93)
 
  _Una vez seleccionado el restaurante de tu preferencia podras elegir un platillo de tu agrado y añadirlo al carrito de compra en el boton +Add To Cart_
@@ -20,6 +24,11 @@ _Una vez aprobados tus datos de registro seran cargados en una base de datos en 
  ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/351aa946-e619-4322-ade0-fe9c7db66f7f)
 
 _Cuando completes tu orden podras verificar la informacion en el carrito de compra en esta seccion tambien podas añadir o eliminar los platillos que desees y aqui se reflejara el precio Total a pagar_
+
+![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/8404a532-7b3b-4484-939a-af16e75552bd)
+
+_Finalmente al presionar el boton de Order Here procederas a la pagina de pago que sera creada por Stripe en donde podras ingresar los datos de la tarjeta y finalizar la compra_
+
 
 >[!TIP]
 >_Una_
