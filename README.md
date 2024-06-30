@@ -61,8 +61,9 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 
 | FRONTEND      | BACKEND       |
 | ------------- | ------------- |
-| ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/83e2cc32-b341-4e2e-8c4e-c4d1942b089e) | Content Cell  |
-| Content Cell  | Content Cell  |
+| ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/83e2cc32-b341-4e2e-8c4e-c4d1942b089e) | ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/904a4c74-4369-4ddf-a927-65c6a5af7239)
+  |
+
 
 
 ### **This site was buil using:**  https://strapi.io/
