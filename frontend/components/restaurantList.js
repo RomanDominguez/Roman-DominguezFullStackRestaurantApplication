@@ -1,7 +1,7 @@
 import {gql,useQuery} from '@apollo/client';
 import Dishes from "./dishes"
 import {useContext, useState} from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 
 import AppContext from "./context"
 import {

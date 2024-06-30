@@ -1,0 +1,48 @@
+version: "3"
+
+services:
+ strapirestaurant:
+  image: strapi/strapi
+  container_name: strapirestaurant
+  restart: unles-stopped
+  env_file: .env_file
+  environment:
+    DATABASE_CLIENT:${DATABASE_CLIENT}
+    DATABASE_NAME:${DATABASE_NAME}
+    DATABASE_HOST:${DATABASE_HOST}
+    DATABASE_PORT:${DATABASE_PORT}
+    DATABASE_USERNAME:${DATABASE_USERNAME}
+    DATABASE_PASSWORD:${DATABASE_PASSWORD}
+  #    links:
+  #       - mongo:mongo
+  networks:
+    - strapi-app-networks
+  volumes:
+    - ./app:/srv/app
+  ports:
+    - "1337:1337"
+
+
+
+monorestaurant:
+  image: mongo
+  container_name: mongorestaurant
+  restart: unles-stopped
+  env_file: .env
+  environment:
+    MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+    MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+  networks:
+    - strapi-app-network
+  volumes:
+    - strapidata:/data/DATABASE_CLIENT
+  ports:
+    - "2017:2017"
+
+networks:
+  strapi-app-network:
+    driver: bridge
+
+volumes:
+  strapidata:
+    

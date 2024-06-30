@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { ApolloProvider, ApolloClient, HttpLink, InMemoryCache } from '@apollo/client';
 import { InputGroup, InputGroupAddon, Input} from "reactstrap";
-import Link from 'next/Link';
+import Link from 'next/link';
 import Cart from "../components/cart"
 import RestaurantList from '../components/restaurantList';
 
