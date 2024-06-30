@@ -4,7 +4,9 @@ _Esta aplicacion esta diseñada para  elegir un restaurante de tu localidad y po
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/e864c860-9e55-4c06-a21f-74722a885711)
 
 _En esta seccion podras encontrar el restaurant de tu eleccion al realizar un busqueda en la barra de buscar se filtrara el restaurante de tu eleccion_
-![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/ac08614f-b251-4c33-8c3c-af958e1472cb)
+
+![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/3aa944b5-ff90-46ed-9414-762cfd1e2c93)
+
  _Una vez seleccionado el restaurante de tu preferencia podras elegir un platillo de tu agrado y añadirlo al carrito de compra en el boton +Add To Cart_
 
 >[!TIP]
