@@ -1,8 +1,11 @@
 # --------------------🧑🏽‍🍳**RestaurantApplication**👩🏽‍🍳--------------------
+
+**This application is designed to choose a restaurant in your area and be able to see the dishes of each restaurant to make a purchase.**
 _Esta aplicacion esta diseñada para  elegir un restaurante de tu localidad y poder ver los platillos de cada restaurante para poder realizar una compra_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/e864c860-9e55-4c06-a21f-74722a885711)
 
+**In this section you can find the restaurant of your choice when you perform a search in the search bar the restaurant of your choice will be filtered**
 _En esta seccion podras encontrar el restaurant de tu eleccion al realizar un busqueda en la barra de buscar se filtrara el restaurante de tu eleccion_
 
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/23bdd2e3-db93-4cb6-aa39-8600024b7c75)
