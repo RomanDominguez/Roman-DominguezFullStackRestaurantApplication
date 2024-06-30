@@ -9,6 +9,10 @@ _En esta seccion podras encontrar el restaurant de tu eleccion al realizar un bu
 
  _Una vez seleccionado el restaurante de tu preferencia podras elegir un platillo de tu agrado y añadirlo al carrito de compra en el boton +Add To Cart_
 
+ ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/351aa946-e619-4322-ade0-fe9c7db66f7f)
+
+_Cuando completes tu orden podras verificar la informacion en el carrito de compra en esta seccion tambien podas añadir o eliminar los platillos que desees y aqui se reflejara el precio Total a pagar_
+
 >[!TIP]
 >_Una_
  
