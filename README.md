@@ -51,7 +51,17 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 | Content Cell  | Content Cell  |
 
 
-Visit https://strapi.io/
-Visit https://stripe.com/
-Visit https://www.digitalocean.com/
-Visit https://heroku.com/
+**This site was buil using:**  https://strapi.io/
+**This site was buil using:**  https://stripe.com/
+**This site was buil using:**  https://www.digitalocean.com/
+**This site was buil using:**  https://heroku.com/
+**This site was buil using:**  https://code.visualstudio.com/
+**This site was buil using:**  https://graphql.org/
+**This site was buil using:**  https://nextjs.org/
+**This site was buil using:**  https://www.apollographql.com/
+
+**This site was buil using:** 
+
+**This site was buil using:** 
+
+**This site was buil using:** 
