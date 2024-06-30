@@ -44,20 +44,24 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 >
  
 > [!IMPORTANT]
->_Una_
+>_This repository is divided in two main sections the frontend and the backend plus you can find a section with a payment stripe example so in order to run the app you must
+> first make sure you are in frontend folder then in CLI you have to run de next command: > npm run dev
+> second make sure you are in bacend folder then in a different window of CLI you have to run the following command: yarn develop
+> by doing this you are ready to run the RestaurantApp_
 
 >[!WARNING]
->_Una_
+>_If you want to load the database in strapi you have to start fro scratch due to you are your own administrator so you have to create your own database_
 
 >[!CAUTION]
->_Una_
+>_If you want to make changes you have to create a backup first if you dont wanna lose your job be cautios _
+>
 
 >[!NOTE]
 >_Una_
 
 | FRONTEND      | BACKEND       |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/83e2cc32-b341-4e2e-8c4e-c4d1942b089e) | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
@@ -73,3 +77,4 @@ _Finalmente al presionar el boton de Order Here procederas a la pagina de pago q
 ### **This site was buil using:**  https://reactstrap.github.io/
 ### **This site was buil using:**  https://nodejs.org/en
 ### **This site was buil using:**  https://www.npmjs.com/
+### **This site was buil using:**  https://axios-http.com/
