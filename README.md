@@ -4,4 +4,19 @@
 
 _Esta aplicacion esta diseñada para  elegir un restaurante de tu localidad y poder ver los platillos de cada restaurante y poder realizar una compra_
 
+>[!TIP]
+>_Una 
+> [!IMPORTANT]
+>
+>
+>[!WARNING]
+>
+>[!CAUTION]
+>
+>> [!NOTE]
+>>
 
+| FRONTEND      | BACKEND       |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
