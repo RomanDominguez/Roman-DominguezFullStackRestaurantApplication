@@ -5,6 +5,14 @@ _Esta aplicacion esta diseñada para  elegir un restaurante de tu localidad y po
 
 _En esta seccion podras encontrar el restaurant de tu eleccion al realizar un busqueda en la barra de buscar se filtrara el restaurante de tu eleccion_
 
+![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/23bdd2e3-db93-4cb6-aa39-8600024b7c75)
+
+_Para iniciar en esta apliacion deberas crear un nombre de usuario y escribir un Email y contraseña validos_
+
+![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/72571b36-f285-4dd0-8030-9fdc60134e2a)
+
+_Una vez aprobados tus datos de registro seran cargados en una base de datos en strapi y puedes entonces proceder a la pagina de login_
+
 ![image](https://github.com/RomanDominguez/Roman-DominguezFullStackRestaurantApplication/assets/146168127/3aa944b5-ff90-46ed-9414-762cfd1e2c93)
 
  _Una vez seleccionado el restaurante de tu preferencia podras elegir un platillo de tu agrado y añadirlo al carrito de compra en el boton +Add To Cart_
