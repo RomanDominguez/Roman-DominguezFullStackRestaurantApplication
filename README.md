@@ -1,4 +1,4 @@
-# --------------------🧑🏽‍🍳**RestaurantApplication**👩🏽‍🍳--------------------
+# ----------------🧑🏽‍🍳**RestaurantApplication**👩🏽‍🍳----------------
 
 **This application is designed to choose a restaurant in your area and be able to see the dishes of each restaurant to make a purchase.**
 _Esta aplicacion esta diseñada para  elegir un restaurante de tu localidad y poder ver los platillos de cada restaurante para poder realizar una compra_
